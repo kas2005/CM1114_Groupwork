@@ -1,0 +1,18 @@
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}.text-block {
+    position: absolute;
+    width: 853px;
+    height: 336px;
+    left: 20px;
+    top: 50px;
+    
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    
+    color: #1F1C2A;
+    }
