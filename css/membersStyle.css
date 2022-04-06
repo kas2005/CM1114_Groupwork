@@ -80,13 +80,14 @@
 
     color: #FFFFFF;
 
-    }
+    .discount-pic{
     position: absolute;
-width: 690px;
-height: 526px;
-left: 956px;
-top: 2084px;
+    width: 690px;
+    height: 526px;
+    left: 956px;
+    top: 2084px;
 
-background: url(web design art pic two.jpg);
-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-border-radius: 13px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 13px;
+    }
