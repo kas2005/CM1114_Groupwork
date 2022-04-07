@@ -11,7 +11,7 @@
     font-family: "Jost";
     font-style: normal;
     font-weight: 900px;
-    font-size: 100%;
+    font-size: 85%;
     line-height: 100%;
     
     color: #1F1C2A;
@@ -30,7 +30,7 @@
     line-height: 100%;
     text-align: center;
 
-    color: #FEF3CD;
+    color: #FFFFFF;
     }
     .sign-up {
     position: absolute;
@@ -63,7 +63,7 @@
     text-align: center;
 
     color: #FFFFFF;
-    mix-blend-mode: soft-light;
+    
     } 
     
     th, td { 
@@ -81,4 +81,24 @@
     color: #FFFFFF;
 
     }
+    li {
+      font-family: 'Jost';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 35px;
+      text-align: left;
+    }
+    p {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100%;
+    line-height: 35px;
+
+    color: #1F1C2A;
+
+    }
+  
+    
     
